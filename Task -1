@@ -1,0 +1,67 @@
+IOT BASED NOISE POLLUTION MONITARING SYSTEM 
+Problem statement :- 
+Noise is the unpleasant and undesirable sound which leads to discomfort in human beings. The intensity  of sound is measured in decibels (dB). The faintest sound which can be heard by the Human ear is 1 Db. 
+Not all sound is considered noise pollution. The World Health Organization (WHO) defines noise above  65 decibels (dB) as noise pollution. To be precise, noise becomes harmful when it exceeds 75 decibels  (dB) and is painful above 120 dB . So it is recommend that noise level should not be Exceeded by  65dB.[3] 
+CAUSES OF NOISE POLLUTION : 
+Major cause of noise pollution are:- 
+• Vehicles 
+• Industrial noise 
+• Air Traffic noise 
+• Construction sites noise 
+• And so because of noise pollution there is so many effects on human health.  EFFECTS OF NOISE POLLUTION ON HUMAN HEALTH: 
+It may affect on human health in various ways such as physically, psychologically. And it also may have  adverse effect on memory and concentration . And in some cases it may affect on sleeping and  behaviour of Human. 
+• Physical- Noise may affect on human in physical manner as well, Humans can suffer with  Respiratory agitation, racing pulse, high blood pressure, headaches and in case of extreme noise  one may even get heart attack.  
+• Psychological- Noise can cause severe stress, fatigue, depression, anxiety and hysteria in both  humans and animals. 
+• Sleeping Disorder- So as per research we came to know that Noise above 45 dB stops you from  falling asleep, and As per WHO Noise should not be more than 30 dB  
+• Behavioural Disorder- Noise above 30 dB may effect on human behaviours causing aggressive  behaviour and irritability. 
+• Memory And Concentration- Due to loud noise one may not able to Focus on certain work,  which can lead to low performance over a period of time. Sometimes It may affect on memory  as well, and so it become hard to remember the important things . For students it becomes hard  to study.[4] 
+According to population Reference Bureau, the current world population is 7.4 Billion. At present, a total number of the vehicle is 1.2 Billion according to survey and it will be 2 Billion up to 2035. And looking  towards the current situation of COVID-19, all the people will prefer Private vehicle instead of Public  Vehicle. And of course because of that we will be getting Heavy Traffic in near Future and Hence, Due to  powerful engine’s in vehicle noise level will rapidly increase.[1]
+SOLUTIONS TOWARDS NOISE POLLUTION:- 
+So our System will be providing solutions to our Problems with the help of IoT. Our system will  continuously check the noise at Traffic if it is passes beyond certain limit it will get reported to the traffic  Department and agencies of national environment. And so Traffic government can take certain  actions.[1] 
+And we can use our system of IoT in many residential areas such as city parks, Society etc. And our  system will also play a major role in hospital and schools as well. And if noise Exceeds beyond certain  limits our system will be sending messages or signals to the Head of the Hospital Or to CPCB (Central  Pollution Control Board) as well, so he/she can take some Major action.  
+So, the noise pollution occurs at Hospital, schools, city parks, Traffic areas can be controlled through our  IoT based system. And mostly our system would be used in traffic areas, in a heavy traffic areas the  vehicles makes noise by trying to start the car with bad battery or valves tapping or Engine Running  without oil or Engine seizing up. And if this noise gets exceeded through some threshold value our  system will notify to the traffic Department and agencies of national environment. 
+HARDWARE & SOFTWARE REQUIRED:- 
+SOFTWARE 
+Proteus
+
+
+
+HARDWARE
+Sound Sensor ( SEN-12642) 
+detect a noise in the vehicle
+Raspberry Pi 3 
+It is card sized small computer
+Wi-Fi Modem 
+To connect to internet
+LCD Display, LCD 
+To display the noise levels
+
+
+
+Sound sensor 
+We are going use SEN-12642 Sensor for detecting noise which is capable of detecting sound in the  range of 60-110 dB 
+Raspberry Pi 3- 
+The Raspberry Pi is a series of credit card-sized Single-board computers developed in the United  Kingdom by the Raspberry Pi Foundation to promote The teaching of basic computer science in schools  and In developing countries[2].  
+WiFi Modem 
+It is a low cost WiFi module suitable for WiFi functionality[8].
+SOFTWARE 
+Proteus – The Proteus Design Suite is a proprietary software tool suite used primarily for electronic  design automation. The software is used mainly by electronic design engineers and technicians to create  schematics and electronic prints for manufacturing printed circuit boards.[3] 
+APPLICATIONS- 
+• Can be used in Heavy Traffic areas 
+• Hospital Areas 
+• Residential area  
+• Society 
+• Industrial areas 
+• School areas 
+ADVANTAGES- 
+• It is cost effective 
+• Can be controlled from any location through internet 
+• They are generally small in size 
+• Maintenance is quite low 
+• Data provided by this IoT can be used by international sources for their survey’s. CONCLUSION 
+In this paper, we have proposed a system which will Monitor pollution and Noise created by vehicle. The  Configuration of System and Experiment result are Discussed in length. Testing of the prototype has  done Successfully. Our proposed system is a low cost, Simple to operate and portable. The developed  system Provides better efficiency and accuracy with low cost Than the existing proposed system. It will  gradually Reduce Global Warming if implemented on a global Scale. 
+REFERENCE: 
+1.P. Patil, “Smart IoT based system for vehicle noise and pollution monitoring,” 2017  International Conference on Trends in Electronics and Informatics (ICEI), 2017.  
+2. https://en.wikipedia.org/wiki/Raspberry_Pi 
+3. https://en.wikipedia.org/wiki/Proteus Software 
+4. https://en.wikipedia.org/wiki/Noise Pollution
